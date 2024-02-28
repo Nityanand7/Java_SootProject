@@ -52,11 +52,7 @@ Install VSCode: If you haven't already, download and install Visual Studio Code 
 Install Java Extension Pack: Open VSCode, go to the Extensions view by clicking on the square icon on the sidebar, or pressing Cmd+Shift+X (on macOS) or Ctrl+Shift+X (on Windows/Linux). Search for “Java Extension Pack” by Microsoft and install it. This pack includes essential Java development tools for VSCode.
 
 3. Download Soot: You can download the Soot framework from its official GitHub repository. Clone the repository or download the latest release as a jar file.
-Download soot from here: https://github.com/soot-oss/soot
-Download soot from here: https://github.com/soot-oss/soot
-![image](https://github.com/Nityanand7/Java_SootProject/assets/39838213/7194faea-3251-446c-83dd-2a8d084c60ff)
-
-
+Download soot from here: (https://github.com/soot-oss/soot)
 
 **Implementing Intra-procedural Analysis**
 1. Create a New Java Project: Start a new Java project in your IDE or a directory of your choice if using a text editor and terminal.
