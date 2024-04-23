@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/nityanandmadpathi/Documents/Spring2024/SAM/soot-4.4.1-jar-with-dependencies.jar"
+    ]
+}
